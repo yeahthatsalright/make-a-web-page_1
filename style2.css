@@ -1,0 +1,50 @@
+body {padding: 30px 25px;
+	 margin: 0 auto;
+	}
+
+h1 { text-align: center;
+	font-size: 60px;
+	 color: #555555;
+	  padding: 20px 25px;
+	}
+
+.top { display: flex;
+		 margin-right:
+		  auto;	
+		 margin-left: auto;
+		}
+
+.index {font-size: 30px;
+		 margin-right: auto;
+		 margin-left: auto;
+         text-align: center;
+         list-style-position: inside;
+     }
+
+h2 {text-align: center;
+	 color: #999999;
+	 font-size: 40px;
+ 	padding: 3px;
+ }
+
+.bigbox {border-radius: 20px;
+		 margin: 15px auto;
+		 background-color: #303740;
+		  padding: 5px;
+		}
+
+.infobox {
+	margin: 10px; color: white;
+	background-color: #555555;
+	padding: 10px;
+	border: 5px solid white;
+	border-radius: 10px;
+}	
+
+.image {margin-left: auto;
+		 margin-right: auto;
+		}
+
+h3 {font-size: 25px;
+	 color: white;
+	}
